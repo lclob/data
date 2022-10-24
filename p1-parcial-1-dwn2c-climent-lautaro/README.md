@@ -1,5 +1,4 @@
 # data
-lob's world
 <h1>Programación 1 - Parcial 1</h1>
 <h2>Lautaro Climent</h2>
  <ul>
